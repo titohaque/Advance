@@ -1,0 +1,887 @@
+#wrapper{
+	width:1250px; 
+	height:1750px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px auto;
+}
+
+
+
+#subwrapper{
+	width:1170px; 
+	height:120px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px auto;
+}
+#rent{
+	width:270px; 
+	height:100px;
+	border:1px solid black;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+	background:url("../images/adv_logo_hd.gif") no-repeat;
+}
+
+#rent1{
+	width:100px; 
+	height:40px;
+	border:1px solid green;
+	background-color:none;
+	margin:40px 70px 0px 0px;
+	float:right;
+}
+
+h{background-color:white;
+font-size:16px;
+font-style:italic;
+	
+}
+#states_lan_sear{
+	width:500px; 
+	height:70px;
+	border:1px solid green none;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:right;
+}
+
+#search{
+	width:18px;
+	height:18px;
+	border:1px solid blue;
+	float:right;
+	margin:0px 143px 0px 0px;
+	background:url(../images/search_btn.gif) no-repeat;
+}
+#header{
+	width:1170px; 
+	height:100px;
+	border:1px solid black;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+	
+}
+
+
+#head1{
+	width:190px; 
+	height:60px;
+	border:1px solid green;
+	background-color:skyblue;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+h2{
+font-size:15px;
+color:black;
+font-style:italic;
+	
+}
+#head2{
+	width:240px; 
+	height:60px;
+	border:1px solid green;
+	background-color:white;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+#head3{
+	width:200px; 
+	height:60px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+#head4{
+	width:200px; 
+	height:60px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+#head5{
+	width:200px; 
+	height:60px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+#step{
+	width:1170px; 
+	height:70px;
+	border:1px solid black;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+	
+}
+
+#step1{
+	width:200px; 
+	height:34px;
+	border:1px solid green;
+	
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#ltarw{
+	width:10px;
+	height:34px;
+	border:1px solid blue;
+	float:left;
+	margin-top:10px;
+	background:url(../images/resStepDivider.gif)
+}
+
+#step2{
+	width:280px; 
+	height:34px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#image{
+	width:10px;
+	height:34px;
+	border:1px solid blue;
+	float:left;
+	margin-top:10px;
+	background:url(../images/resStepDividerActive.gif)no-repeat;
+}
+
+#step3{
+	width:200px; 
+	height:34px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+#image3{
+	width:10px;
+	height:34px;
+	border:1px solid blue;
+	float:left;
+	margin-top:10px;
+	background:url(../images/resStepDividerVisited.gif)no-repeat;
+}
+#step4{
+	width:200px; 
+	height:34px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#image4{
+	width:10px;
+	height:34px;
+	border:1px solid blue;
+	float:left;
+	margin-top:10px;
+	background:url(../images/resStepDividerVisited.gif)no-repeat;
+}
+#contact_ads{
+	width:410px; 
+	height:535px;
+	border:1px solid black;
+	background-color:skyblue;
+	margin:-25px 10px 0px 10px;
+	float:right;
+	
+}
+#contact{
+	width:390px; 
+	height:300px;
+	border:1px solid black;
+	background-color:none;
+	margin:10px 10px 0px 10px;
+	float:right;
+}
+
+#yourIt{
+	width:170px; 
+	height:25px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+#changeIt{
+	width:120px; 
+	height:25px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 10px 0px 10px;
+	float:right;
+}
+#pickup{
+	width:280px; 
+	height:60px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#return{
+	width:280px; 
+	height:60px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#pdate{
+	width:280px; 
+	height:40px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+#rdate{
+	width:280px; 
+	height:40px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+#ads{
+	width:310px; 
+	height:210px;
+	border:1px solid black;
+	background-color:none;
+	margin:10px 10px 0px 10px;
+	float:right;
+	background:url(../images/offer.gif)no-repeat;
+}
+
+#content{
+	width:800px; 
+	height:600px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+h3{font-size:20px;
+font-style:italic;
+margin:5px;
+}
+p{margin-top:0px;
+font-size:14px;
+font-style:italic;
+}
+
+#content1{
+	width:770px; 
+	height:180px;
+	border:1px solid green;
+	background-color:white;
+	margin:10px 0px 0px 10px;
+}
+
+.Box{
+	width:150px; 
+	height:130px;
+	border:1px solid red;
+	background-color:none;
+	margin:0px 0px 0px 5px;
+}
+
+
+#select1{
+	width:70px; 
+	height:20px;
+	border:1px solid green;
+	background-color:none;
+	margin:-10px 0px 0px 10px;
+	float:left;
+	background:url("../images/select_gr_btn.gif") no-repeat;
+}
+
+
+#subcontent2{
+	width:180px; 
+	height:150px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+	
+}
+
+#car1{
+	width:160px; 
+	height:80px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+background:url("../images/car1.jpg") no-repeat;
+}
+
+#size1{
+	width:160px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+
+}
+#subcontent3{
+	width:190px; 
+	height:150px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#man{
+	width:14px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+	background:url("../images/person.png") no-repeat;
+}
+#man1{
+	width:140px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#suit{
+	width:14px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+	background:url("../images/suitcase-s.gif") no-repeat;
+}
+#suit1{
+	width:140px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#largesuit{
+	width:22px; 
+	height:17px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+	background:url("../images/suitcase-s.png") no-repeat;
+}
+#largesuit1{
+	width:140px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#subcontent4{
+	width:210px; 
+	height:150px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+	
+}
+p1{font-size:20px;
+	
+	
+}
+button{
+	background:blue;
+	color:white;
+}
+#subcontent4_1{
+	width:170px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#subcontent4_2{
+	width:140px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#subcontent4_3{
+	width:140px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+#content2{
+	width:760px; 
+	height:180px;
+	border:1px solid green;
+	background-color:skyblue;
+	margin:30px 0px 0px 10px;
+	float:left;
+}
+
+#subcontent2_2{
+	width:180px; 
+	height:150px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+	
+}
+
+#car2{
+	width:160px; 
+	height:80px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+background:url("../images/car2.gif") no-repeat;
+}
+
+#size2{
+	width:160px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+
+}
+
+
+#content7{
+	width:750px; 
+	height:180px;
+	border:1px solid green;
+	background-color:none;
+	margin:30px 0px 0px 10px;
+	float:left;
+}
+
+#subcontent7_2{
+	width:180px; 
+	height:150px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+	
+}
+
+#car7{
+	width:160px; 
+	height:80px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+background:url("../images/car7.jpg") no-repeat;
+}
+
+#size7{
+	width:160px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+
+}
+
+
+
+#footer{
+	width:1230px; 
+	height:330px;
+	border:1px solid black;
+	background-color:skyblue;
+	margin:400px 10px 0px -30px;
+}
+
+#SocialNetwork{
+	width:300px; 
+	height:300px;
+	border:1px solid black;
+	background-color:none;
+	margin:10px 10px 0px 10px;
+	float:left;
+}
+#connected{
+	width:200px; 
+	height:34px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+#submit{
+	width:270px; 
+	height:34px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+#social{
+	width:270px; 
+	height:80px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+#sirius{
+	width:49px; 
+	height:17px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+	background:url("../images/sirius_logo_sm.gif") no-repeat;
+}
+
+#facebook{
+	width:30px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+	background:url("../images/facebook.png") no-repeat;
+}
+
+#twitter{
+	width:30px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+	background:url("../images/twitter.png") no-repeat;
+}
+
+#youtube{
+	width:30px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+	background:url("../images/youtube.png") no-repeat;
+}
+
+#mobile{
+	width:270px; 
+	height:50px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+	
+}
+#mobile1{
+	width:16px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+	background:url("../images/phoneIcon.png") no-repeat;
+}
+
+#mobile1_1{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+#Rates{
+	width:280px; 
+	height:300px;
+	border:1px solid black;
+	background-color:none;
+	margin:10px 10px 0px 10px;
+	float:left;
+}
+
+#Rates1{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#Rates2{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#Rates3{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#Rates4{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#Rates5{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#Rates6{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+#Deals{
+	width:250px; 
+	height:300px;
+	border:1px solid black;
+	background-color:none;
+	margin:10px 10px 0px 10px;
+	float:left;
+}
+
+
+#Deals1{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#Deals2{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#Deals3{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#Deals4{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#Deals5{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#Deals6{
+	width:200px; 
+	height:50px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+
+#Careers{
+	width:250px; 
+	height:300px;
+	border:1px solid black;
+	background-color:none;
+	margin:10px 10px 0px 10px;
+	float:right;
+}
+
+#Careers1{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#Careers2{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#Careers3{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#Careers4{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#Careers5{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+#Careers6{
+	width:200px; 
+	height:30px;
+	border:1px solid green;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+}
+
+
+#Copyright{
+	width:1150px; 
+	height:40px;
+	border:1px solid black;
+	background-color:none;
+	margin:10px 0px 0px 10px;
+	float:left;
+	
+}
+
+#footerbar{
+	width:1250px; 
+	height:20px;
+	border:1px solid black;
+	background-color:blue;
+	margin:10px 0px 0px -33px;
+	float:left;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
